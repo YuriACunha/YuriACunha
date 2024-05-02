@@ -29,3 +29,18 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+
+
+
+
+
+<!-- Status Actions GitHub
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=yuriacunha&show_icons=true&theme=vision-friendly-dark" alt="yuriacunha's stats"/>
+-->
+
+
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriacunha&layout=compact&theme=vision-friendly-dark" alt="yuriacunha's most languages"/>
+</p>
