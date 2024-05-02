@@ -1,12 +1,9 @@
-<h1 align="left">Sejam bem vindos, me chamo Yuri.</h1>
+<h1 align="left">Sejam bem vindos, me chamo Yuri.</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=yuriacunha&color=blue" alt="Profile views" /> </p>
+<a href="https://www.linkedin.com/in/yuri-axel-cunha-752052167/" style="background-color: black; padding: 10px; border-radius: 5px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn" style="width: 100px;">
+</a>
+<br><br>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-axel-cunha-752052167/)
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuriacunha&color=blue" alt="Profile views" /> </p>
 
 💻 Desenvolvedor Full Stack 
 
