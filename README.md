@@ -4,7 +4,6 @@
 </a>
 <br><br>
 
-
 💻 Desenvolvedor Full Stack 
 
 🏢 Buscando minha oportunidade no mercado 
